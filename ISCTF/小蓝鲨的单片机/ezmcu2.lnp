@@ -1,0 +1,3 @@
+".\Objects\MAIN.obj" 
+TO ".\Objects\ezmcu2" 
+PRINT(".\Listings\ezmcu2.m51") RAMSIZE(256) 
