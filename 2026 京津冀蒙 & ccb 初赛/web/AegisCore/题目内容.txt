@@ -1,0 +1,1 @@
+AegisCore 自称零信任边缘网关：Operator 登录、集群 JWT、RSC Flight 检查、动态网关签名，一层套一层。控制台只对 mesh 上的 `cluster-admin` 开放。
